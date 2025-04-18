@@ -17,6 +17,7 @@ migrate_working_dir/
 *.iws
 .idea/
 
+.vscode
 
 # Flutter repo-specific
 /bin/cache/
