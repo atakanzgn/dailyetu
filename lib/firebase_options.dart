@@ -36,11 +36,11 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB93wyQDeTEGcI8B23A9UAwG0ul_4inHho',
-    appId: '1:680797746281:android:154b685b466ea9b22c5ef8',
-    messagingSenderId: '680797746281',
-    projectId: 'dailyetu',
-    storageBucket: 'dailyetu.appspot.com',
-    databaseURL: 'https://dailyetu.europe-west1.firebasedatabase.app',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    databaseURL: '',
   );
 } 
