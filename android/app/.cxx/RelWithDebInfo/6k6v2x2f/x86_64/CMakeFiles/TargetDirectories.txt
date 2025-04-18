@@ -1,0 +1,2 @@
+C:/Users/HP/Desktop/DailyEtu/dailyetu/android/app/.cxx/RelWithDebInfo/6k6v2x2f/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/HP/Desktop/DailyEtu/dailyetu/android/app/.cxx/RelWithDebInfo/6k6v2x2f/x86_64/CMakeFiles/rebuild_cache.dir

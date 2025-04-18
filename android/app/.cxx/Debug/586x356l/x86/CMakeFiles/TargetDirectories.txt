@@ -1,0 +1,2 @@
+C:/Users/Atakan/Desktop/DailyEtu/dailyetu/android/app/.cxx/Debug/586x356l/x86/CMakeFiles/edit_cache.dir
+C:/Users/Atakan/Desktop/DailyEtu/dailyetu/android/app/.cxx/Debug/586x356l/x86/CMakeFiles/rebuild_cache.dir

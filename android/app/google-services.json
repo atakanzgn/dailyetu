@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "410521319911",
+    "project_id": "backendetu",
+    "storage_bucket": "backendetu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410521319911:android:0e74d54cbdd6fca7512542",
+        "android_client_info": {
+          "package_name": "com.etu.dailyetu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6VXg2NetyTXPBMkbusaDw8vK4prvW3TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
